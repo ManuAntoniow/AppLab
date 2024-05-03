@@ -1,3 +1,3 @@
 # AppLab
 
-Trabajo para coderhouse
+Trabajo UADE para la materia Diseño y Desarrollo Web.
